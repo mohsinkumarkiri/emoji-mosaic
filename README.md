@@ -64,7 +64,7 @@ Install Dependencies - pip install -r requirements.txt
 
 Place you'r emojis inside - emoji-mosaic/emojis/
 
-Acknowledgement -
+
 
 ⭐ Acknowledgements
 
@@ -76,5 +76,4 @@ Open-source emoji sets (Twemoji, Noto Emoji, etc.)
 
 The creative coding community ❤️
 
-## 📁 Project Structure
 
